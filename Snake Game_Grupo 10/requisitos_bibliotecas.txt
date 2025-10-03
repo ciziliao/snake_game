@@ -1,0 +1,5 @@
+Bibliotecas usadas:
+pygame
+random
+json
+heapq
